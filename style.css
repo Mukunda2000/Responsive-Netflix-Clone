@@ -290,10 +290,10 @@ padding: 34px 0;
         width: 305px;
     }
 
-    .third video {
+    /* .third video {
         top: 51px;
         width: 140px;
-    }
+    } */
 
     .hero> :nth-child(1) {
         font-size: 32px;
